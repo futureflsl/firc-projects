@@ -2,6 +2,12 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov8-reid行人重识别实现跨视频检索人员的功能python源码</td><td><a href="https://mbd.pub/o/bread/Z5yamphs">下载</a></td></tr>
+<tr><td>基于yolov8的茶叶叶龄检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Z5yVlplv">下载</a></td></tr>
+<tr><td>基于yolov8的大豆叶子虫害检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Z5yVlpZq">下载</a></td></tr>
+<tr><td>基于yolov5的道路交通拥挤检测系统python源码+onnx模型+评估指标曲线+精美GUI界面.zip</td><td><a href="https://mbd.pub/o/bread/Z5yUmp1r">下载</a></td></tr>
+<tr><td>基于yolov8的钓鱼检测系统python源码+onnx模型+评估指标曲线+精美GUI界面.zip</td><td><a href="https://mbd.pub/o/bread/Z5yUmJ9u">下载</a></td></tr>
+<tr><td>基于yolov11的工地行为检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Z5yTl5hv">下载</a></td></tr>
 <tr><td>基于yolov11实现的三车道车辆计数统计系统python源码+模型+演示视频</td><td><a href="https://mbd.pub/o/bread/Zp2YlJ5t">下载</a></td></tr>
 <tr><td>基于yolov10的驾驶员抽烟打电话安全带检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Zp2al5tr">下载</a></td></tr>
 <tr><td>基于yolov10的烟雾明火检测森林火灾系统python源码+pytorch模型+评估指标曲线+精美GUI界面+数据集</td><td><a href="https://mbd.pub/o/bread/Zp2alJ1q">下载</a></td></tr>
@@ -155,6 +161,19 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C#winform自定义系列控件源码之水波进度控件</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxy">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之旋转开关按钮</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxr">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之自定义液晶数字显示控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm51w">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之自定义温度计控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm5xx">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之自定义线性表控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm5ty">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之自定义指示灯控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm5lr">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之流动管道控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm5dw">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之垂直进度条</td><td><a href="https://mbd.pub/o/bread/Z52Xmp5u">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之仪表盘控件源码</td><td><a href="https://mbd.pub/o/bread/Z52Xmp5r">下载</a></td></tr>
+<tr><td>C# winform自定义系列控件源码之数字表自定义控件</td><td><a href="https://mbd.pub/o/bread/Z52Xmp5v">下载</a></td></tr>
+<tr><td>[C#]winform基于scrfd深度学习算法实现卡证身份证检测矫正源码</td><td><a href="https://mbd.pub/o/bread/Z52Vk59w">下载</a></td></tr>
+<tr><td>C#使用winform部署ddddocr的onnx模型进行验证码识别文字识别文字检测</td><td><a href="https://mbd.pub/o/bread/Z5yZm59r">下载</a></td></tr>
+<tr><td>C#winform基于yowov2深度学习算法部署时空动作检测演示源码</td><td><a href="https://mbd.pub/o/bread/Z5qckpdw">下载</a></td></tr>
 <tr><td>基于yolov8的CT扫描图像肾结石检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Zp2ZmZls">下载</a></td></tr>
 <tr><td>基于FFT的一维连续小波变换C#源码+winform界面.zip</td><td><a href="https://mbd.pub/o/bread/Z5WXkppw">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov8的道路交通事故检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Zp2Zl5hy">下载</a></td></tr>
@@ -257,14 +276,14 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>[C++]在windows基于C++编程署yolov11的openvino目标检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5tp">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov11的openvino实例分割模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5xt">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov11-pose的openvino姿态估计模型cmake项目部署演示源</td><td><a href="https://mbd.pub/o/bread/Zp2clJdt">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov11-cls的openvino图像分类模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2clJxx">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov8的openvino模型cmake项目部演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bkplu">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov8的openvino实例分割检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bk51v">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov8-pose的openvino姿态估计检测模型cmake项目部署演示</td><td><a href="https://mbd.pub/o/bread/Zp2bmpdt">下载</a></td></tr>
-<tr><td>[C++]在windows基于C++编程署yolov8-cls的openvino图像分类模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bmptx">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov11的openvino目标检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5tp">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov11的openvino实例分割模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5xt">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov11-pose的openvino姿态估计模型cmake项目部署演示源</td><td><a href="https://mbd.pub/o/bread/Zp2clJdt">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov11-cls的openvino图像分类模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2clJxx">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov8的openvino模型cmake项目部演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bkplu">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov8的openvino实例分割检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bk51v">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov8-pose的openvino姿态估计检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bmpdt">下载</a></td></tr>
+<tr><td>[C++]在windows基于C++编程部署yolov8-cls的openvino图像分类模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2bmptx">下载</a></td></tr>
 <tr><td>基于C++和onnxruntime部署yolov5的onnx目标检测模型演示源码</td><td><a href="https://mbd.pub/o/bread/Z5WXmZxr">下载</a></td></tr>
 <tr><td>[C++]使用yolov5的onnx模型结合opencv和bytetrack实现目标追踪</td><td><a href="https://mbd.pub/o/bread/Z5WXmZts">下载</a></td></tr>
 <tr><td>[C++]在windows基于C++编程署yolov11-pose的openvino姿态估计模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2clJdt">下载</a></td></tr>
