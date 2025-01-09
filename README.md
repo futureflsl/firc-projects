@@ -163,6 +163,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C# winform调用deepseekv3接口实现聊天功能演示源码.zip</td><td><a href="https://mbd.pub/o/bread/Z52bk59w">下载</a></td></tr>
 <tr><td>C#winform自定义系列控件源码之水波进度控件</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxy">下载</a></td></tr>
 <tr><td>C# winform自定义系列控件源码之旋转开关按钮</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxr">下载</a></td></tr>
 <tr><td>C# winform自定义系列控件源码之自定义液晶数字显示控件</td><td><a href="https://mbd.pub/o/bread/Z52Xm51w">下载</a></td></tr>
