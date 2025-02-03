@@ -163,6 +163,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C#winform本地部署deepseekr1的gguf模型实现中文对话演示例子源码</td><td><a href="https://gf.bilibili.com/item/detail/1108827044">下载</a></td></tr>
 <tr><td>基于C# winform调用deepseekv3接口实现聊天功能演示源码.zip</td><td><a href="https://mbd.pub/o/bread/Z52bk59w">下载</a></td></tr>
 <tr><td>C#winform自定义系列控件源码之水波进度控件</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxy">下载</a></td></tr>
 <tr><td>C# winform自定义系列控件源码之旋转开关按钮</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxr">下载</a></td></tr>
@@ -279,6 +280,7 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>在Windows上基于C++编程调用deepseek接口进行对话例子源码</td><td><a href="https://gf.bilibili.com/item/detail/1108745044">下载</a></td></tr>
 <tr><td>[C++]在windows基于C++编程部署yolov11的openvino目标检测模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5tp">下载</a></td></tr>
 <tr><td>[C++]在windows基于C++编程部署yolov11的openvino实例分割模型cmake项目部署演示源码</td><td><a href="https://mbd.pub/o/bread/Zp2ck5xt">下载</a></td></tr>
 <tr><td>[C++]在windows基于C++编程部署yolov11-pose的openvino姿态估计模型cmake项目部署演示源</td><td><a href="https://mbd.pub/o/bread/Zp2clJdt">下载</a></td></tr>
