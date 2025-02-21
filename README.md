@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>将yolov12封装成一个类几句调用完成目标检测任务python源码</td><td><a href="https://mbd.pub/o/bread/aJWTmphy">下载</a></td></tr>
 <tr><td>基于yolov11的阿尔兹海默症严重程度检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Z56YmJlp">下载</a></td></tr>
 <tr><td>基于深度学习算法文档矫正python源码+onnx模型+GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/Z52YlJpt">下载</a></td></tr>
 <tr><td>基于yolov11的泥石流检测系统python源码+onnx模型+评估指标曲线+精美GUI界面.zip</td><td><a href="https://mbd.pub/o/bread/Z52XmJ5v">下载</a></td></tr>
@@ -164,6 +165,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C# winform部署yolov12目标检测的onnx模型演示源码+模型+运行说明</td><td><a href="https://mbd.pub/o/bread/aJWTmphx">下载</a></td></tr>
 <tr><td>基于C#winform本地部署deepseekr1的gguf模型实现中文对话演示例子源码</td><td><a href="https://gf.bilibili.com/item/detail/1108827044">下载</a></td></tr>
 <tr><td>基于C# winform调用deepseekv3接口实现聊天功能演示源码.zip</td><td><a href="https://mbd.pub/o/bread/Z52bk59w">下载</a></td></tr>
 <tr><td>C#winform自定义系列控件源码之水波进度控件</td><td><a href="https://mbd.pub/o/bread/Z52Ykpxy">下载</a></td></tr>
