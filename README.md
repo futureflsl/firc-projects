@@ -285,6 +285,7 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C++使用yolov12结合bytetrack实现目标追踪演示源码</td><td><a href="https://mbd.pub/o/bread/aJWUm5tt">下载</a></td></tr>
 <tr><td>使用C++部署yolov12目标检测的tensorrt模型支持图片视频推理</td><td><a href="https://mbd.pub/o/bread/aJWUmplr">下载</a></td></tr>
 <tr><td>基于C++编程结合onnxruntime实现yolov12的onnx模型部署源码</td><td><a href="https://mbd.pub/o/bread/aJWUmZls">下载</a></td></tr>
 <tr><td>C++使用纯opencv部署yolov12目标检测onnx模型演示源码+模型</td><td><a href="https://mbd.pub/o/bread/aJWTm5hv">下载</a></td></tr>
