@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov8的运动鞋品牌检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWVlZxs">下载</a></td></tr>
 <tr><td>基于yolov8的西瓜叶子病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWVlJ9r">下载</a></td></tr>
 <tr><td>基于yolov8的辣椒叶子病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWVlJZq">下载</a></td></tr>
 <tr><td>yolov12+deepsort+pyqt5实现目标追踪python源码+模型</td><td><a href="https://mbd.pub/o/bread/aJWTm5pw">下载</a></td></tr>
