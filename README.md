@@ -175,6 +175,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]opencvsharp部署yolox-onnx模型</td><td><a href="https://mbd.pub/o/bread/aJWXk5lv">下载</a></td></tr>
 <tr><td>C# winform部署yolov12目标检测的onnx模型演示源码+模型+运行说明</td><td><a href="https://mbd.pub/o/bread/aJWTmphx">下载</a></td></tr>
 <tr><td>基于C#winform本地部署deepseekr1的gguf模型实现中文对话演示例子源码</td><td><a href="https://gf.bilibili.com/item/detail/1108827044">下载</a></td></tr>
 <tr><td>基于C# winform调用deepseekv3接口实现聊天功能演示源码.zip</td><td><a href="https://mbd.pub/o/bread/Z52bk59w">下载</a></td></tr>
