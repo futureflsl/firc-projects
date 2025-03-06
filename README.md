@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov8的肝病检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWXmp1u">下载</a></td></tr>
 <tr><td>基于yolov8的农作物叶子病害检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWWlp9r">下载</a></td></tr>
 <tr><td>基于yolov8的水果蔬菜检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWWlpZs">下载</a></td></tr>
 <tr><td>基于yolov8的半导体芯片缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWWlJ9u">下载</a></td></tr>
