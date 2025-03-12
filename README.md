@@ -2,6 +2,8 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的半导体晶圆缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaUlJtu">下载</a></td></tr>
+<tr><td>基于yolov11的瓶盖缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaUlJlu">下载</a></td></tr>
 <tr><td>基于yolov8的电瓶车进电梯检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWbm5hy">下载</a></td></tr>
 <tr><td>基于yolov8的棉花杂质检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWbkp5y">下载</a></td></tr>
 <tr><td>基于yolov8的土豆马铃薯叶子病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWam5tq">下载</a></td></tr>
