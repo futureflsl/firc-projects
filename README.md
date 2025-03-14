@@ -2,6 +2,9 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>使用yolov8+flask实现精美登录界面+图片视频摄像头检测系统python源码</td><td><a href="https://mbd.pub/o/bread/aJaUm5hx">下载</a></td></tr>
+<tr><td>基于Mediapipe骨骼提取与YOLOv11-MSCA改进模型实现人体坐姿检测系统python源码+模型+数据集+项目说明</td><td><a href="https://mbd.pub/o/bread/aJaUmZ5x">下载</a></td></tr>
+<tr><td>基于yolov8+streamlit实现目标检测系统带漂亮登录界面python源码</td><td><a href="https://mbd.pub/o/bread/aJaUmZly">下载</a></td></tr>
 <tr><td>基于yolov11的半导体晶圆缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaUlJtu">下载</a></td></tr>
 <tr><td>基于yolov11的瓶盖缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaUlJlu">下载</a></td></tr>
 <tr><td>基于yolov8的电瓶车进电梯检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJWbm5hy">下载</a></td></tr>
