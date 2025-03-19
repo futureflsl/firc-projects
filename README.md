@@ -2,6 +2,8 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的交通违规行为检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaWkppt">下载</a></td></tr>
+<tr><td>基于yolov11的淡水鱼种类检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaVmJ5v">下载</a></td></tr>
 <tr><td>基于yolov11的蛀牙检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaVlJtq">下载</a></td></tr>
 <tr><td>基于yolo11+flask打造一个精美登录界面和检测系统python源码</td><td><a href="https://mbd.pub/o/bread/aJaVkp1v">下载</a></td></tr>
 <tr><td>使用yolov8+flask实现精美登录界面+图片视频摄像头检测系统python源码</td><td><a href="https://mbd.pub/o/bread/aJaUm5hx">下载</a></td></tr>
@@ -189,6 +191,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]基于yolov11的交通违规行为检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaWkppu">下载</a></td></tr>
 <tr><td>[C#][winform]opencvsharp部署yolox-onnx模型</td><td><a href="https://mbd.pub/o/bread/aJWXk5lv">下载</a></td></tr>
 <tr><td>C# winform部署yolov12目标检测的onnx模型演示源码+模型+运行说明</td><td><a href="https://mbd.pub/o/bread/aJWTmphx">下载</a></td></tr>
 <tr><td>基于C#winform本地部署deepseekr1的gguf模型实现中文对话演示例子源码</td><td><a href="https://gf.bilibili.com/item/detail/1108827044">下载</a></td></tr>
