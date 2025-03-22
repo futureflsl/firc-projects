@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的防震锤缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaYlZdp">下载</a></td></tr>
 <tr><td>基于yolov8的螺栓瑕疵缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaYk55v">下载</a></td></tr>
 <tr><td>基于yolov11+pyqt5通用检测系统框架设计python源码</td><td><a href="https://mbd.pub/o/bread/aJaWlJ5y">下载</a></td></tr>
 <tr><td>基于yolov11的持刀检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaWk5Zp">下载</a></td></tr>
