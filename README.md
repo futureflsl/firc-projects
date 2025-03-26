@@ -2,6 +2,9 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov8的X光图像手骨检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaakpZv">下载</a></td></tr>
+<tr><td>基于yolov11的棉花品种分类检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaZm5pv">下载</a></td></tr>
+<tr><td>基于yolov11的3D打印缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaZmZ9x">下载</a></td></tr>
 <tr><td>基于yolov11的3D打印缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaZmZ9x">下载</a></td></tr>
 <tr><td>基于yolov11的中空圆柱形缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaYmptr">下载</a></td></tr>
 <tr><td>基于yolov8的白血病检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaYmZtr">下载</a></td></tr>
