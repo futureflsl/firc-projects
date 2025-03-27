@@ -2,6 +2,10 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov12实现热力图可视化支持图像视频和摄像头检测</td><td><a href="https://mbd.pub/o/bread/aJaalZ5t">下载</a></td></tr>
+<tr><td>基于yolov10实现热力图可视化支持图像视频和摄像头检测python源码+使用步骤</td><td><a href="https://mbd.pub/o/bread/aJaalJxw">下载</a></td></tr>
+<tr><td>基于yolov11实现热力图可视化支持图像视频和摄像头检测python源码+使用步骤</td><td><a href="https://mbd.pub/o/bread/aJaalJhq">下载</a></td></tr>
+<tr><td>基于yolov8实现热力图可视化支持图像视频和摄像头检测python源码+使用步骤</td><td><a href="https://mbd.pub/o/bread/aJaalJZs">下载</a></td></tr>
 <tr><td>基于yolov11的铁路轨道铁轨缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaak5dt">下载</a></td></tr>
 <tr><td>基于yolov8的X光图像手骨检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaakpZv">下载</a></td></tr>
 <tr><td>基于yolov11的棉花品种分类检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaZm5pv">下载</a></td></tr>
