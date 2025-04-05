@@ -2,6 +2,8 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的玉米叶子虫害检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJacmplv">下载</a></td></tr>
+<tr><td>基于yolov11的作物与杂草检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJacl59v">下载</a></td></tr>
 <tr><td>基于yolov11的水下目标检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJabmJpx">下载</a></td></tr>
 <tr><td>基于yolov11的水下垃圾检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJabmJls">下载</a></td></tr>
 <tr><td>基于yolov11的汽车损伤检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJabmJhw">下载</a></td></tr>
@@ -212,6 +214,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C# winform部署yolov8的onnx模型进行GPU推理源码</td><td><a href="https://b23.tv/mall-Tj1rv-oae8">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的交通违规行为检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJaWkppu">下载</a></td></tr>
 <tr><td>[C#][winform]opencvsharp部署yolox-onnx模型</td><td><a href="https://mbd.pub/o/bread/aJWXk5lv">下载</a></td></tr>
 <tr><td>C# winform部署yolov12目标检测的onnx模型演示源码+模型+运行说明</td><td><a href="https://mbd.pub/o/bread/aJWTmphx">下载</a></td></tr>
