@@ -2,6 +2,8 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的瓷砖缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeXm5Zp">下载</a></td></tr>
+<tr><td>基于yolov11的齿轮缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeXmpxy">下载</a></td></tr>
 <tr><td>YOLOv8检测界面-PyQt5实现带登录界面</td><td><a href="https://www.bilibili.com/video/BV1Swd5YPEGh/">下载</a></td></tr>
 <tr><td>基于yolov11的鱼新鲜度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeVkpdx">下载</a></td></tr>
 <tr><td>基于yolov11的绵羊检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeTkppv">下载</a></td></tr>
