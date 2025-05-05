@@ -2,6 +2,11 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的人员睡岗检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6bmZls">下载</a></td></tr>
+<tr><td>基于yolov11的灭火器检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6bmJZx">下载</a></td></tr>
+<tr><td>基于yolov11的打电话玩手机检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面.zip</td><td><a href="https://mbd.pub/o/bread/aZ6bl5xv">下载</a></td></tr>
+<tr><td>基于yolov8的狗狗未带护具犬类未带护具检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6blJ1r">下载</a></td></tr>
+<tr><td>基于yolov8的皮肤癌检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6blJpq">下载</a></td></tr>
 <tr><td>基于yolov11的树上地下柑橘橘子检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJicmJxx">下载</a></td></tr>
 <tr><td>基于yolov11的瓷砖缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeXm5Zp">下载</a></td></tr>
 <tr><td>基于yolov11的齿轮缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aJeXmpxy">下载</a></td></tr>
