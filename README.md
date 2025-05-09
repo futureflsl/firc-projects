@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的牙齿检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6cmZxq">下载</a></td></tr>
 <tr><td>基于yolov11的鱼病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6clppv">下载</a></td></tr>
 <tr><td>基于yolov11的人员睡岗检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6bmZls">下载</a></td></tr>
 <tr><td>基于yolov11的灭火器检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/aZ6bmJZx">下载</a></td></tr>
