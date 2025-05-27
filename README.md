@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于python部署paddleocrv5的onnx模型PPOCRv5模型部署源码+onnx模型+使用说明</td><td><a href="https://mbd.pub/o/bread/YZWTmp5xbA==">下载</a></td></tr>
 <tr><td>基于yolov11的输电线路巡检异物检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWTlJprag==">下载</a></td></tr>
 <tr><td>基于yolov11的输电线路巡检鸟巢检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWTlJprZA==">下载</a></td></tr>
 <tr><td>基于yolov11的山林搜索与救援失踪被困人员检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWTlJdtag==">下载</a></td></tr>
