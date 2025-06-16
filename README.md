@@ -2,6 +2,9 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的钢索电缆线缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl59pZg==">下载</a></td></tr>
+<tr><td>基于YOLOv11+PP-OCRv5深度学习的智能车牌检测与识别系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl5trbQ==">下载</a></td></tr>
+<tr><td>基于yolov11的45种交通标志检测与识别系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl5tqaQ==">下载</a></td></tr>
 <tr><td>基于python部署PP-OCRv5的pytorch模型脱离paddle框架源码+模型</td><td><a href="https://mbd.pub/o/bread/YZWUlpZtZA==">下载</a></td></tr>
 <tr><td>基于python部署paddleocrv5的onnx模型PPOCRv5模型部署源码+onnx模型+使用说明</td><td><a href="https://mbd.pub/o/bread/YZWTmp5xbA==">下载</a></td></tr>
 <tr><td>基于PaddleOCR+pyqt5实现一个简单的手写汉字识别系统源码</td><td><a href="https://mbd.pub/o/bread/YZWTmJlpZg==">下载</a></td></tr>
