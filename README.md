@@ -2,6 +2,9 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[深度学习][python]yolov13+deepsort+pyqt5实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5duZA==">下载</a></td></tr>
+<tr><td>[深度学习][python]yolov13+bytetrack+pyqt5实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5drbA==">下载</a></td></tr>
+<tr><td>将yolov13封装成类几句代码实现目标检测任务源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5ZxbA==">下载</a></td></tr>
 <tr><td>基于yolov11的钢索电缆线缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl59pZg==">下载</a></td></tr>
 <tr><td>基于YOLOv11+PP-OCRv5深度学习的智能车牌检测与识别系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl5trbQ==">下载</a></td></tr>
 <tr><td>基于yolov11的45种交通标志检测与识别系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUl5tqaQ==">下载</a></td></tr>
@@ -238,6 +241,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#]C# winform部署yolov13目标检测的onnx模型CPU版源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5dpZQ==">下载</a></td></tr>
 <tr><td>基于C#winform使用openvino部署PP-OCRv5的onnx模型paddleocrv5模型部署</td><td><a href="https://mbd.pub/o/bread/YZWUl59saA==">下载</a></td></tr>
 <tr><td>基于C#winform部署PP-OCRv5的推理模型CPU版</td><td><a href="https://mbd.pub/o/bread/YZWUlZhwag==">下载</a></td></tr>
 <tr><td>基于C# winform部署yolov8实例分割的onnx模型进行GPU推理</td><td><a href="https://mbd.pub/o/bread/aJeWl51v">下载</a></td></tr>
@@ -364,6 +368,10 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C++][cmake]使用C++部署yolov13目标检测的tensorrt模型演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hrZA==">下载</a></td></tr>
+<tr><td>[cmake]C++使用yolov13结合bytetrack实现目标追踪演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hpZw==">下载</a></td></tr>
+<tr><td>[cmake]基于C++编程结合onnxruntime实现yolov13的onnx模型部署演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hpZQ==">下载</a></td></tr>
+<tr><td>[C++][cmake]使用纯opencv部署yolov13目标检测onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5dxZg==">下载</a></td></tr>
 <tr><td>[cmake项目]windows上基于C++部署PP-OCRv5模型paddleocrv5模型部署GPU版本</td><td><a href="https://mbd.pub/o/bread/YZWUmJpsaA==">下载</a></td></tr>
 <tr><td>[cmake项目]windows上使用C++编程部署PP-OCRv5模型paddleocrv5模型部署CPU版</td><td><a href="https://mbd.pub/o/bread/YZWUmJhubA==">下载</a></td></tr>
 <tr><td>C++使用yolov12结合bytetrack实现目标追踪演示源码</td><td><a href="https://mbd.pub/o/bread/aJWUm5tt">下载</a></td></tr>
