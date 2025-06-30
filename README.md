@@ -2,6 +2,8 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的小鸡鸡苗行为状态检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUm55vag==">下载</a></td></tr>
+<tr><td>基于yolov11的猪场猪只行为状态检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUm55uZQ==">下载</a></td></tr>
 <tr><td>[深度学习][python]yolov13+deepsort+pyqt5实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5duZA==">下载</a></td></tr>
 <tr><td>[深度学习][python]yolov13+bytetrack+pyqt5实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5drbA==">下载</a></td></tr>
 <tr><td>将yolov13封装成类几句代码实现目标检测任务源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5ZxbA==">下载</a></td></tr>
