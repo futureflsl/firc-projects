@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的传送带异物检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVlJ1sbA==">下载</a></td></tr>
 <tr><td>基于yolov11的占道经营街道摆摊检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVk5lwZQ==">下载</a></td></tr>
 <tr><td>基于yolov11的大棚番茄成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVk5hpZw==">下载</a></td></tr>
 <tr><td>基于yolov11的小鸡鸡苗行为状态检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWUm55vag==">下载</a></td></tr>
