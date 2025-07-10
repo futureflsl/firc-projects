@@ -120,9 +120,9 @@ python项目源码汇总
 <tr><td>基于yolov5的不同颜色安全帽检测系统python源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/Zpubl5ly">下载</a></td></tr>
 <tr><td>基于yolov5+deepsort+SLPNet实现车辆检测车辆识别车辆违停指定区域检测一体化系统python源码</td><td><a href="https://mbd.pub/o/bread/ZpyXlZ1t">下载</a></td></tr>
 <tr><td>[数据集][目标检测]基于yolov5增强数据集算法mosaic来扩充数据集自动生成增强图片和对应标注python源码</td><td><a href="https://mbd.pub/o/bread/ZpuZmZ1r">下载</a></td></tr>
-<tr><td>部署yolov8的pt模型到ros系统上yolov8-ros的python源码</td><td><a href="https://download.csdn.net/download/FL1623863129/89289085">下载</a></td></tr>
-<tr><td>部署yolov7的pt模型到ros系统上yolov7-ros的python源码</td><td><a href="https://download.csdn.net/download/FL1623863129/89289084">下载</a></td></tr>
-<tr><td>部署yolov5的pt模型到ros系统上yolov5-ros的python源码</td><td><a href="https://download.csdn.net/download/FL1623863129/89289083">下载</a></td></tr>
+<tr><td>部署yolov8的pt模型到ros系统上yolov8-ros的python源码</td><td><a href="https://mbd.pub/o/bread/YZWVlZlrZQ==">下载</a></td></tr>
+<tr><td>部署yolov7的pt模型到ros系统上yolov7-ros的python源码</td><td><a href="https://mbd.pub/o/bread/YZWVlZlrZg==">下载</a></td></tr>
+<tr><td>部署yolov5的pt模型到ros系统上yolov5-ros的python源码</td><td><a href="https://mbd.pub/o/bread/YZWVlZlrZw==">下载</a></td></tr>
 <tr><td>课程设计基于基于python3实现多张图像无缝拼接源码含操作说明.zip</td><td><a href="https://download.csdn.net/download/FL1623863129/89252968">下载</a></td></tr>
 <tr><td>毕业设计基于YOLOv8深度学习的火焰烟雾python检测源码+训练好的模型+演示视频+使用说明.zip</td><td><a href="https://download.csdn.net/download/FL1623863129/89349071">下载</a></td></tr>
 <tr><td>智慧交通基于yolov8的行人车辆检测计数系统python源码+onnx模型+精美GUI界面.zip</td><td><a href="https://download.csdn.net/download/FL1623863129/89754258">下载</a></td></tr>
