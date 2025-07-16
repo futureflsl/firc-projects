@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于深度学习yolo11+yolov8-pose关键点实现的的工业压力表智能检测与读数系统设计与实现</td><td><a href="https://mbd.pub/o/bread/YZWVmJlqaw==">下载</a></td></tr>
 <tr><td>基于yolov11的传送带异物检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVlJ1sbA==">下载</a></td></tr>
 <tr><td>基于yolov11的占道经营街道摆摊检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVk5lwZQ==">下载</a></td></tr>
 <tr><td>基于yolov11的大棚番茄成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVk5hpZw==">下载</a></td></tr>
@@ -373,6 +374,7 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C++编程使用QT绘制yolov8目标检测操作界面可图像视频和摄像头的目标检测源码</td><td><a href="https://mbd.pub/o/bread/YZWVl59xZA==">下载</a></td></tr>
 <tr><td>[C++][cmake]使用C++部署yolov13目标检测的tensorrt模型演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hrZA==">下载</a></td></tr>
 <tr><td>[cmake]C++使用yolov13结合bytetrack实现目标追踪演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hpZw==">下载</a></td></tr>
 <tr><td>[cmake]基于C++编程结合onnxruntime实现yolov13的onnx模型部署演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hpZQ==">下载</a></td></tr>
