@@ -248,6 +248,8 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C# winform部署yolov12实例分割的onnx模型进行GPU推理</td><td><a href="https://www.bilibili.com/video/BV1tdbqzrE54/">下载</a></td></tr>
+<tr><td>C# winform使用纯opencvsharp部署yolov12的onnx图像分类模型</td><td><a href="https://www.bilibili.com/video/BV1sCbBzzEBD/">下载</a></td></tr>
 <tr><td>[C#]C# winform部署yolov13目标检测的onnx模型CPU版源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5dpZQ==">下载</a></td></tr>
 <tr><td>基于C#winform使用openvino部署PP-OCRv5的onnx模型paddleocrv5模型部署</td><td><a href="https://mbd.pub/o/bread/YZWUl59saA==">下载</a></td></tr>
 <tr><td>基于C#winform部署PP-OCRv5的推理模型CPU版</td><td><a href="https://mbd.pub/o/bread/YZWUlZhwag==">下载</a></td></tr>
@@ -375,6 +377,9 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C++][cmake]使用纯opencv去部署yolov2的图像分类onnx模型</td><td><a href="https://www.bilibili.com/video/BV1G1bqzEEft/">下载</a></td></tr>
+<tr><td>[cmake项目]C++使用opencv和onnxruntime部署yolov12-seg实例分割onnx模型</td><td><a href="https://www.bilibili.com/video/BV1pub6z6Equ/">下载</a></td></tr>
+<tr><td>[C++][cmake]使用纯opencv去部署yolov2-seg的实例分割onnx模型</td><td><a href="https://www.bilibili.com/video/BV1VXbrzFEJw/">下载</a></td></tr>
 <tr><td>C++版本yolo11的onnx模型加密方法保护自己模型和版权演示源码</td><td><a href="https://mbd.pub/o/bread/YZWWlZtqaQ==">下载</a></td></tr>
 <tr><td>基于C++编程使用QT绘制yolov8目标检测操作界面可图像视频和摄像头的目标检测源码</td><td><a href="https://mbd.pub/o/bread/YZWVl59xZA==">下载</a></td></tr>
 <tr><td>[C++][cmake]使用C++部署yolov13目标检测的tensorrt模型演示源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5hrZA==">下载</a></td></tr>
