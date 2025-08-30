@@ -248,6 +248,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C#winform基于yolov8-seg实现的指甲分割实现源码.7z</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZg==">下载</a></td></tr>
 <tr><td>基于C# winform部署yolov12实例分割的onnx模型进行GPU推理</td><td><a href="https://www.bilibili.com/video/BV1tdbqzrE54/">下载</a></td></tr>
 <tr><td>C# winform使用纯opencvsharp部署yolov12的onnx图像分类模型</td><td><a href="https://www.bilibili.com/video/BV1sCbBzzEBD/">下载</a></td></tr>
 <tr><td>[C#]C# winform部署yolov13目标检测的onnx模型CPU版源码</td><td><a href="https://mbd.pub/o/bread/YZWUm5dpZQ==">下载</a></td></tr>
