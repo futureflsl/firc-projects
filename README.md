@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11的机场跑道异物检测系统python源码+pytorch模型+训练数据集+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYlp9rag==">下载</a></td></tr>
 <tr><td>基于yolov12的车辆检测与识别系统python源码+pytorch模型+训练数据集+gradio设计界面</td><td><a href="https://mbd.pub/o/bread/YZWYlp5wZw==">下载</a></td></tr>
 <tr><td>基于yolov12的水稻叶子病害检测系统python源码+pytorch模型+训练数据集+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYlp5qag==">下载</a></td></tr>
 <tr><td>基于YOLOv12和MediaPipe的人体跌倒检测系统python源码+使用说明</td><td><a href="https://mbd.pub/o/bread/YZWYlp5paA==">下载</a></td></tr>
