@@ -2,6 +2,10 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov12的水稻叶子病害检测系统python源码+pytorch模型+训练数据集+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYlp5qag==">下载</a></td></tr>
+<tr><td>基于YOLOv12和MediaPipe的人体跌倒检测系统python源码+使用说明</td><td><a href="https://mbd.pub/o/bread/YZWYlp5paA==">下载</a></td></tr>
+<tr><td>基于Mediapipe骨骼提取与YOLOv11-MSCA改进模型实现人体坐姿检测系统python源码+模型+数据集+项目说明.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlpxwbQ==">下载</a></td></tr>
+<tr><td>基于pyqt5+python实现的动物识别专家系统源码+GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYlpdvaQ==">下载</a></td></tr>
 <tr><td>基于yolov11的打架行为检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWWk5traQ==">下载</a></td></tr>
 <tr><td>基于深度学习yolo11+yolov8-pose关键点实现的的工业压力表智能检测与读数系统设计与实现</td><td><a href="https://mbd.pub/o/bread/YZWVmJlqaw==">下载</a></td></tr>
 <tr><td>基于yolov11的传送带异物检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWVlJ1sbA==">下载</a></td></tr>
