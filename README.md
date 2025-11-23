@@ -257,6 +257,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C# winform部署rf-detr目标检测的onnx模型演示源码</td><td><a href="https://mbd.pub/o/bread/mbd-YZWZlppwbQ==">下载</a></td></tr>
 <tr><td>基于C# winform实现PP-HumanSeg人像分割替换背景色更换背景色演示源码</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9raw==">下载</a></td></tr>
 <tr><td>C#winform基于yolov8-seg实现的指甲分割实现源码.7z</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZg==">下载</a></td></tr>
 <tr><td>基于C# winform部署yolov12实例分割的onnx模型进行GPU推理</td><td><a href="https://www.bilibili.com/video/BV1tdbqzrE54/">下载</a></td></tr>
@@ -388,6 +389,7 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>cmake项目基于C++onnxruntime部署rf-detr的onnx目标检测模型演示源码</td><td><a href="https://www.bilibili.com/video/BV1pFUNBBExP/">下载</a></td></tr>
 <tr><td>[C++][cmake]使用纯opencv去部署yolov2的图像分类onnx模型</td><td><a href="https://www.bilibili.com/video/BV1G1bqzEEft/">下载</a></td></tr>
 <tr><td>[cmake项目]C++使用opencv和onnxruntime部署yolov12-seg实例分割onnx模型</td><td><a href="https://www.bilibili.com/video/BV1pub6z6Equ/">下载</a></td></tr>
 <tr><td>[C++][cmake]使用纯opencv去部署yolov2-seg的实例分割onnx模型</td><td><a href="https://www.bilibili.com/video/BV1VXbrzFEJw/">下载</a></td></tr>
