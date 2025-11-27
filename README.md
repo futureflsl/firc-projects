@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于pyqt5设计一个适合yolov8/yolov10/yolov11/yolov12/yolov13通用检测界面20251127版</td><td><a href="https://mbd.pub/o/bread/YZWZl5dwbA==">下载</a></td></tr>
 <tr><td>基于pyqt5设计一个适合yolov8/yolov10/yolov11/yolov12/yolov13通用检测界面源码</td><td><a href="https://mbd.pub/o/bread/YZWYmphpaQ==">下载</a></td></tr>
 <tr><td>基于yolov8的果蔬识别检测系统python源码+onnx模型+数据集+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYmZ1qZg==">下载</a></td></tr>
 <tr><td>基于yolov11的翻越围栏行为检测系统python源码+pytorch模型+训练数据集+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWYmJdsag==">下载</a></td></tr>
