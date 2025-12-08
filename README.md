@@ -258,6 +258,8 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]基于yolov11的鱼病害检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWZmZppaQ==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov11占道经营街上摆摊摊贩检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmZhxZA==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov8的井盖异常检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmZhqbQ==">下载</a></td></tr>
 <tr><td>C# winform部署rf-detr目标检测的onnx模型演示源码</td><td><a href="https://mbd.pub/o/bread/mbd-YZWZlppwbQ==">下载</a></td></tr>
 <tr><td>基于C# winform实现PP-HumanSeg人像分割替换背景色更换背景色演示源码</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9raw==">下载</a></td></tr>
