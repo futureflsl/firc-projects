@@ -258,6 +258,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]基于yolov11的无人机飞鸟检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmZprZg==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的鱼病害检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWZmZppaQ==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11占道经营街上摆摊摊贩检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmZhxZA==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov8的井盖异常检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmZhqbQ==">下载</a></td></tr>
