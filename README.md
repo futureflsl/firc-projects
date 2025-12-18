@@ -258,6 +258,10 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]基于yolov11的半导体晶圆缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWZm55xZw==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov11的淡水鱼种类检测识别系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZm5tuaw==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov11的45种交通标志检测与识别系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZm5hsZg==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov11的打电话玩手机检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZm5duaQ==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的钢索电缆线缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZm5ZxZA==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的水下目标检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmp5qZA==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov8的舌苔舌象疾病诊断检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWZmp1xaA==">下载</a></td></tr>
