@@ -258,6 +258,9 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C#][winform]基于yolov11的大棚番茄成熟度检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakptyZg==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov11的齿轮缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakppsaw==">下载</a></td></tr>
+<tr><td>[C#][winform]基于yolov8的水表读数检测与识别系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakp9sZg==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的传送带异物检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakplpag==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的道路路面坑洼坑洞检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakpdpag==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的半导体晶圆缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWZm55xZw==">下载</a></td></tr>
