@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11实现车辆速度估计+距离测量+轨迹跟踪+区域进出统计完整python源码+模型+测试视频+项目说明.7z</td><td><a href="https://mbd.pub/o/bread/YZWal5lqaQ==">下载</a></td></tr>
 <tr><td>基于yolo11实现的车辆实时交通流量进出统计与速度测量系统python源码+演示视频</td><td><a href="https://mbd.pub/o/bread/YZWal5ZwbA==">下载</a></td></tr>
 <tr><td>基于pyqt5设计一个适合yolov8/yolov10/yolov11/yolov12/yolov13通用检测界面20251127版</td><td><a href="https://mbd.pub/o/bread/YZWZl5dwbA==">下载</a></td></tr>
 <tr><td>基于pyqt5设计一个适合yolov8/yolov10/yolov11/yolov12/yolov13通用检测界面源码</td><td><a href="https://mbd.pub/o/bread/YZWYmphpaQ==">下载</a></td></tr>
