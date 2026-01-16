@@ -260,6 +260,11 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>C# winform使用纯opencvsharp部署yolo26-cls图像分类的onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZpyag==">下载</a></td></tr>
+<tr><td>C# winform部署yolo26-obb旋转框检测的onnx模型演示源码+模型+说明.7z</td><td><a href="https://mbd.pub/o/bread/YZWamZpwaQ==">下载</a></td></tr>
+<tr><td>C# winform部署yolo26-pose姿态估计关键点的onnx模型演示源码+模型+说明</td><td><a href="https://mbd.pub/o/bread/YZWamZlybQ==">下载</a></td></tr>
+<tr><td>C# winform部署yolo26-seg实例分割的onnx模型演示源码+模型+说明</td><td><a href="https://mbd.pub/o/bread/YZWamZlrag==">下载</a></td></tr>
+<tr><td>C# winform部署yolo26目标检测的onnx模型演示源码+模型+说明.7z</td><td><a href="https://mbd.pub/o/bread/YZWamZhsZg==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的大棚番茄成熟度检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakptyZg==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov11的齿轮缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakppsaw==">下载</a></td></tr>
 <tr><td>[C#][winform]基于yolov8的水表读数检测与识别系统C#源码+onnx模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWakp9sZg==">下载</a></td></tr>
