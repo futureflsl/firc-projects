@@ -416,6 +416,13 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[cmake]C++使用yolo26目标检测结合bytetrack实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ5xZA==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上onnxruntime+opencv部署yolo26-obb的旋转框检测onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ5qZA==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上onnxruntime+opencv部署yolo26-pose的姿态估计关键点检测onnx模型</td><td><a href="https://mbd.pub/o/bread/YZWamZ5pZw==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上onnxruntime+opencv部署yolo26-seg的实例分割onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ1uaQ==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上onnxruntime+opencv部署yolo26的图像分类onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ1raA==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上使用纯opencv部署yolo26的图像分类onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ1qaQ==">下载</a></td></tr>
+<tr><td>[C++][cmake]基于C++在windows上部署yolo26的目标检测onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZxpZg==">下载</a></td></tr>
 <tr><td>cmake项目基于C++onnxruntime部署rf-detr的onnx目标检测模型演示源码</td><td><a href="https://www.bilibili.com/video/BV1pFUNBBExP/">下载</a></td></tr>
 <tr><td>[C++][cmake]使用纯opencv去部署yolov2的图像分类onnx模型</td><td><a href="https://www.bilibili.com/video/BV1G1bqzEEft/">下载</a></td></tr>
 <tr><td>[cmake项目]C++使用opencv和onnxruntime部署yolov12-seg实例分割onnx模型</td><td><a href="https://www.bilibili.com/video/BV1pub6z6Equ/">下载</a></td></tr>
